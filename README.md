@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downtownCorilla&show_icons=true&theme=dark?count_private=true)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=downtownCorilla)](https://solved.ac/downtownCorilla)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downtownCorilla&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
