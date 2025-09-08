@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=downtownCorilla&show_icons=true&theme=dark?count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=downtownCorilla&layout=compact)](https://github.com/anuraghazra/github-readme-stats?count_private=true)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/pastel/generate_badge?boj=downtownCorilla)](https://solved.ac/downtownCorilla)
